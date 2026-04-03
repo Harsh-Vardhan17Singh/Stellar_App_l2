@@ -230,6 +230,11 @@ cargo build --target wasm32-unknown-unknown --release  # Build wasm
 cd contracts
 chmod +x deploy.sh
 DEPLOYER_SECRET=SXXXXXXX... ./deploy.sh
+
 ```
+
+### Result of this App
+<img width="1757" height="892" alt="image" src="https://github.com/user-attachments/assets/bf8b5b7e-a4cf-4214-b129-5ca6621163b6" />
+
 
 See `contracts/README.md` for full contract API reference.
